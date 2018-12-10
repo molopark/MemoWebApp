@@ -14,7 +14,7 @@ git commit -m “현재형으로 설명” // 커밋해서 스냅샷을 찍는�
 
 git remote add origin https://github.com/username/myproject.git // 로컬과 원격 저장소를 연결한다.
 git remote -v // 연결상태를 확인한다.
-git push origin master // 깃허브로 푸시한다. 
+git push origin master // 깃허브로 푸시한다.
 
 -------------------------------------------------------------------
 node.js 설치 : nodejs.org
@@ -34,5 +34,3 @@ firebase init : 프로젝트 이름 , 인증, database 선택
 
 서버 실행 : command 창에서
 firebase serve : 오류 발생시 안내문구 참고
-
-
